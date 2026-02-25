@@ -1,4 +1,4 @@
-# ptyhon-language-server README
+# README: Building a Language ServerExtension using VS Code
 
 This is the README for your extension "ptyhon-language-server". After writing up a brief description, we recommend including the following sections.
 
